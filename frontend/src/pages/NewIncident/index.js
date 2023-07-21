@@ -23,7 +23,6 @@ export default function NewIncident(){
             description,
             value,
         }
-        console.log(data)
 
         try {
             await api.post('incidents', data, {
