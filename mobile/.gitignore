@@ -12,3 +12,7 @@ web-report/
 
 # macOS
 .DS_Store
+
+# Environment Variables
+.env.local
+.env.*.local
