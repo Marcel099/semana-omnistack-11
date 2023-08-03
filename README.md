@@ -17,6 +17,7 @@
 
 * [Índice](#índice)
 * [Sobre](#sobre-o-projeto)
+  * [Tecnologias](#principais-tecnologias-utilizadas)
 * [Instalação local](#instalação-local)
 * [Créditos](#créditos)
 
@@ -27,6 +28,30 @@ O projeto foi desenvolvido durante a primeira edição do evento Semana Omnistac
 O sistema, desenvolvido em JavaScript, é composto de um servidor HTTP Node, um [site](https://be-the-hero.marcel099.vercel.app/) em React e um aplicativo móvel em React Native.
 
 A opção por essas ferramentas foi realizada pela Rocketseat por acreditarem formar um conjunto de tecnologias poderoso ao permitir desenvolver desde o Back-End até o aplicativo móvel em uma só linguagem: o JavaScript.
+
+### Principais tecnologias utilizadas
+
+O sistema foi desenvolvido em JavaScript. É composto de 3 partes:
+
+- Back-End
+  - [Node.js](https://nodejs.org/en/)
+  - [Express](https://expressjs.com/)
+  - [Knex](https://knexjs.org/)
+  - [PostgreSQL](https://www.postgresql.org/)
+- Front-End Web
+  - [Create React App](https://create-react-app.dev/)
+  - [React](https://react.dev/)
+  - [React Router](https://reactrouter.com/)
+- Front-End Mobile
+  - [React Native](https://reactnative.dev/)
+  - [Expo](https://expo.dev/)
+  - [React Navigation](https://reactnavigation.org/) - [Stack](https://reactnavigation.org/docs/stack-navigator/)
+  - [Expo Mail Composer](https://docs.expo.dev/versions/latest/sdk/mail-composer)
+
+Alguns pontos a destacar:
+
+- Uso de [Deep Linking](https://reactnative.dev/docs/linking) para envio de mensagem no WhatsApp no smartphone
+- Envio de e-mail com [Expo Mail Composer](https://docs.expo.dev/versions/latest/sdk/mail-composer) no smartphone
 
 ## Instalação local
 
