@@ -64,3 +64,7 @@ Passos para atingir isso pode ser conferido <a href="./INSTALLATION.md">neste ar
 ## Créditos
 
 Credito a elaboração do modelo do banner deste documento e do banner social ao autor desconhecido desta [postagem](https://mckups.com/pixel-4-and-pixelbook-go-mockup/) no site [Mckups](https://mckups.com). Foi adaptado por mim de acordo com as características deste projeto.
+
+## Licença
+
+Este projeto está sob a licença MIT. Para maiores detalhes acesse o <a href="./LICENSE.md">arquivo de licença</a>.
