@@ -53,6 +53,10 @@ Alguns pontos a destacar:
 - Uso de [Deep Linking](https://reactnative.dev/docs/linking) para envio de mensagem no WhatsApp no smartphone
 - Envio de e-mail com [Expo Mail Composer](https://docs.expo.dev/versions/latest/sdk/mail-composer) no smartphone
 
+Se desejar explorar as rotas do servidor HTTP Node desenvolvido para esse sistema, poderá fazer isso através do [Insomnia](https://insomnia.rest/).
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Semana%20Omnistack%20%2311%20-%20Be%20The%20Hero&uri=https%3A%2F%2Fgithub.com%2Fmarcel099%2Frs-so-11-be-the-hero%2Fblob%2Fmaster%2Fassets%2Finsomnia_collection.json)
+
 ## Instalação local
 
 Passos para atingir isso pode ser conferido <a href="./INSTALLATION.md">neste arquivo</a>.
