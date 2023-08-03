@@ -42,10 +42,14 @@ export default StyleSheet.create({
     },
 
     incident: {
-        padding: 24,
         borderRadius: 8,
         backgroundColor: '#FFF',
         marginBottom: 16,
+    },
+
+    incidentDetails: {
+      paddingBottom: 32,
+      paddingHorizontal: 24,
     },
 
     incidentProperty: {
@@ -65,6 +69,10 @@ export default StyleSheet.create({
         flexDirection: 'row',
         justifyContent: 'space-between',
         alignItems: 'center',
+        height: 58,
+        paddingHorizontal: 24,
+        borderTopWidth: 1,
+        borderTopColor: '#F0F0F5',
     },
 
     detailsButtonText: {
