@@ -17,6 +17,7 @@
 
 * [Índice](#índice)
 * [Sobre](#sobre-o-projeto)
+  * [Conceito do projeto](#conceito-do-projeto)
   * [Tecnologias](#principais-tecnologias-utilizadas)
 * [Instalação local](#instalação-local)
 * [Créditos](#créditos)
@@ -28,6 +29,25 @@ O projeto foi desenvolvido durante a primeira edição do evento Semana Omnistac
 O sistema, desenvolvido em JavaScript, é composto de um servidor HTTP Node, um [site](https://be-the-hero.marcel099.vercel.app/) em React e um aplicativo móvel em React Native.
 
 A opção por essas ferramentas foi realizada pela Rocketseat por acreditarem formar um conjunto de tecnologias poderoso ao permitir desenvolver desde o Back-End até o aplicativo móvel em uma só linguagem: o JavaScript.
+
+### Conceito do projeto
+
+O Be The Hero é um sistema marketplace com a finalidade de auxiliar as pessoas a descobrir histórias de ONGs em que possam se interessar em ajudar.
+
+Na sua versão web, uma ONG pode se cadastrar para ter acesso ao sistema; fornecendo número de telefone e endereço de e-mail para contato. Após se autenticar no sistema, a ONG consegue cadastrar ocorrências.
+
+<div align="center">
+  <img alt="Página de gerenciamento das ocorrências da ONG" src="./assets/screenshots/ong_web.png" />
+  <img alt="Página de cadastro de ocorrência" src="./assets/screenshots/new_incident_web.png" />
+</div>
+
+Já na versão para celulares, um cidadão comum pode procurar as histórias cadastradas no sistema. Caso se interesse em alguma delas, poderá ler uma descrição mais detalhada da história. Caso decida ajudar, pode entrar em contato com a ONG por WhatsApp ou por e-mail.
+
+<div align="center">
+  <img title="Tela com lista de ocorrências" src="./assets/screenshots/incident_list_mobile.png" width="30%" />
+  <img title="Tela com detalhes de uma ocorrência" src="./assets/screenshots/incident_mobile.png" width="30%" />
+  <img title="Tela de contato do usuário com a ONG no WhatsApp" src="./assets/screenshots/contact_ong_by_email_mobile.png" width="30%" />
+</div>
 
 ### Principais tecnologias utilizadas
 
