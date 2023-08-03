@@ -17,6 +17,7 @@
 
 * [Índice](#índice)
 * [Sobre](#sobre-o-projeto)
+* [Instalação local](#instalação-local)
 * [Créditos](#créditos)
 
 ## Sobre o projeto
@@ -26,6 +27,10 @@ O projeto foi desenvolvido durante a primeira edição do evento Semana Omnistac
 O sistema, desenvolvido em JavaScript, é composto de um servidor HTTP Node, um [site](https://be-the-hero.marcel099.vercel.app/) em React e um aplicativo móvel em React Native.
 
 A opção por essas ferramentas foi realizada pela Rocketseat por acreditarem formar um conjunto de tecnologias poderoso ao permitir desenvolver desde o Back-End até o aplicativo móvel em uma só linguagem: o JavaScript.
+
+## Instalação local
+
+Passos para atingir isso pode ser conferido <a href="./INSTALLATION.md">neste arquivo</a>.
 
 ## Créditos
 
