@@ -21,6 +21,7 @@
   * [Tecnologias](#principais-tecnologias-utilizadas)
 * [Instalação local](#instalação-local)
 * [Créditos](#créditos)
+* [Licença](#licença)
 
 ## Sobre o projeto
 
